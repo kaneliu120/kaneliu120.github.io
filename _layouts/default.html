@@ -10,8 +10,15 @@
   <body>
     <div class="page-shell">
       <header class="site-header">
-        <a class="brand" href="{{ '/' | relative_url }}">Kane Liu</a>
-        <p class="site-note">GitHub Pages article archive</p>
+        <div class="site-identity">
+          <a class="brand" href="{{ '/' | relative_url }}">Kane Liu</a>
+          <p class="site-note">GitHub Pages article archive</p>
+        </div>
+        <nav class="site-nav" aria-label="Primary">
+          <a href="{{ '/' | relative_url }}">Articles</a>
+          <a href="{{ '/profile/' | relative_url }}">GitHub README</a>
+          <a href="https://github.com/kaneliu120">GitHub</a>
+        </nav>
       </header>
       <main>
         {{ content }}

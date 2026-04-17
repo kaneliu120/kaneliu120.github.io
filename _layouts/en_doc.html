@@ -5,7 +5,9 @@ layout: default
 <article class="article">
   <header class="article-header">
     <p class="eyebrow">English Rewrite</p>
-    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}
+    <p class="lede">{{ page.subtitle }}</p>
+    {% endif %}
     <div class="article-meta">
       <span>English</span>
       {% if page.source_code %}

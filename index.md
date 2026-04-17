@@ -8,6 +8,7 @@ title: AI Industry Replacement Analysis
   <h1>AI Industry Replacement Analysis</h1>
   <p class="lede">Published article bodies from Kane's completed LinkedIn industry series. This site only contains the long-form article text.</p>
   <div class="action-row">
+    <a class="button-link" href="{{ '/zh/' | relative_url }}">中文行业库</a>
     <a class="button-link" href="{{ '/profile/' | relative_url }}">GitHub README</a>
     <a class="button-link secondary" href="https://github.com/kaneliu120">GitHub Profile</a>
   </div>
@@ -29,6 +30,14 @@ title: AI Industry Replacement Analysis
     <a href="https://apify.com/lentic_clockss"><img src="https://img.shields.io/badge/Apify_Store-43_Actors-green?style=flat-square" alt="Apify Store 43 Actors"></a>
     <a href="https://opendata.best/catalog"><img src="https://img.shields.io/badge/Countries-42-orange?style=flat-square" alt="Countries 42"></a>
     <a href="https://www.linkedin.com/in/boliu2024/"><img src="https://img.shields.io/badge/LinkedIn-Bo_Liu-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn Bo Liu"></a>
+  </div>
+</section>
+
+<section class="language-panel">
+  <div class="language-copy">
+    <p class="eyebrow">Publishing Structure</p>
+    <h2>Two-language publishing path.</h2>
+    <p>English long-form articles stay in the main archive. The Chinese-first industry library lives under <a href="{{ '/zh/' | relative_url }}">/zh/</a> and will expand first from the source analysis folder.</p>
   </div>
 </section>
 

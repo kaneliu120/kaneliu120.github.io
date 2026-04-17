@@ -6,9 +6,18 @@ markdown: kramdown
 kramdown:
   input: GFM
 permalink: /:title/
+collections:
+  zh_docs:
+    output: true
+    permalink: /zh/:name/
 defaults:
   - scope:
       path: ""
       type: "posts"
     values:
       layout: post
+  - scope:
+      path: ""
+      type: "zh_docs"
+    values:
+      layout: zh_doc

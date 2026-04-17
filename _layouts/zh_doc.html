@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<article class="article">
+  <header class="article-header">
+    <p class="eyebrow">中文首发</p>
+    <h1>{{ page.title }}</h1>
+    <div class="article-meta">
+      <span>Chinese</span>
+      {% if page.source_code %}
+      <span>{{ page.source_code }}</span>
+      {% endif %}
+      {% if page.source_file %}
+      <span>{{ page.source_file }}</span>
+      {% endif %}
+    </div>
+  </header>
+  <div class="article-body">
+    {{ content }}
+  </div>
+</article>

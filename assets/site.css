@@ -199,6 +199,26 @@ a:hover {
   height: 24px;
 }
 
+.language-panel {
+  padding: 24px 0 34px;
+  border-top: 1px solid var(--line);
+}
+
+.language-copy {
+  max-width: 760px;
+}
+
+.language-copy h2 {
+  margin: 0;
+  font-size: clamp(1.65rem, 3vw, 2.35rem);
+  line-height: 1.04;
+  letter-spacing: -0.04em;
+}
+
+.language-copy p:last-child {
+  margin-bottom: 0;
+}
+
 .post-list {
   display: grid;
   gap: 0;

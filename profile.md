@@ -30,6 +30,7 @@ I built a single REST API with **150+ prebuilt adapters against official sources
 The fastest way to use opendata.best. 43 ready-to-run data tools on [Apify Store](https://apify.com/lentic_clockss):
 
 ### 🌐 Global Tools
+
 | Actor | What it does | Link |
 |-------|-------------|------|
 | **Global Company Search** | Query 40+ country registries in one call | [→ Try it](https://apify.com/lentic_clockss/global-company-search) |
@@ -37,6 +38,7 @@ The fastest way to use opendata.best. 43 ready-to-run data tools on [Apify Store
 | **Regulatory Compliance Search** | ESMA, FINRA, FDIC, CNIL cross-check | [→ Try it](https://apify.com/lentic_clockss/regulatory-compliance-search) |
 
 ### 🇺🇸 United States
+
 | Actor | Coverage | Link |
 |-------|----------|------|
 | **US Compliance & Regulatory** | 33 sources — EPA, OFAC, NHTSA, CFPB, FEMA | [→ Try it](https://apify.com/lentic_clockss/us-compliance-search) |
@@ -46,6 +48,7 @@ The fastest way to use opendata.best. 43 ready-to-run data tools on [Apify Store
 | **US Education** | 16 sources — College Scorecard, K-12 | [→ Try it](https://apify.com/lentic_clockss/us-education-search) |
 
 ### 🇪🇺 European Union
+
 | Actor | Coverage | Link |
 |-------|----------|------|
 | **EU Business Registry** | ECB, ESMA, EBA, EIOPA, Eurostat, GLEIF | [→ Try it](https://apify.com/lentic_clockss/eu-business-data-search) |
@@ -55,6 +58,7 @@ The fastest way to use opendata.best. 43 ready-to-run data tools on [Apify Store
 | **EU Energy & Education** | ENTSO-G, Eurostat electricity, ESCO | [→ Try it](https://apify.com/lentic_clockss/eu-energy-education-search) |
 
 ### 🌏 Asia-Pacific & More
+
 | Actor | Coverage | Link |
 |-------|----------|------|
 | **🇬🇧 UK Government Data** | 31 sources — Charity Commission, NHS, ICO | [→ Try it](https://apify.com/lentic_clockss/uk-data-search) |

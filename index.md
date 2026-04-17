@@ -17,6 +17,10 @@ title: AI Industry Replacement Analysis
   <div class="profile-copy">
     <p class="eyebrow">From GitHub Profile</p>
     <h2>Building <a href="https://opendata.best">opendata.best</a> — the unified API for government data.</h2>
+    <div class="actor-callout">
+      <p><strong>Apify Actor Toolkit:</strong> 43 ready-to-run Actors for company search, sanctions screening, regulatory lookup, procurement monitoring, and country-specific government data access.</p>
+      <p><a href="https://apify.com/lentic_clockss">Explore Kane's Apify Actors</a> — MCP-compatible tools that work directly with Claude, GPT, Cursor, and other agent workflows.</p>
+    </div>
     <p class="lede small">865 live data products across 42 countries. 445M+ indexed records.</p>
     <p>Copied directly from <a href="https://github.com/kaneliu120">kaneliu120</a>'s GitHub profile README to strengthen the connection between the site and the profile.</p>
   </div>

@@ -164,6 +164,24 @@ a:hover {
   margin-bottom: 0;
 }
 
+.actor-callout {
+  margin: 16px 0 0;
+  padding: 16px 18px;
+  border: 1px solid rgba(32, 28, 24, 0.14);
+  background: rgba(251, 248, 242, 0.72);
+  border-radius: 14px;
+}
+
+.actor-callout p {
+  margin: 0;
+  font-size: 1rem;
+  color: #3f3933;
+}
+
+.actor-callout p + p {
+  margin-top: 10px;
+}
+
 .profile-badges {
   display: flex;
   flex-wrap: wrap;

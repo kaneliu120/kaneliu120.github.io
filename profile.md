@@ -8,6 +8,9 @@ permalink: /profile/
 
 > Building [**opendata.best**](https://opendata.best) — the unified API for government data. **865 live data products across 42 countries. 445M+ indexed records.**
 
+**Apify Actor Toolkit:** [lentic_clockss on Apify](https://apify.com/lentic_clockss)  
+43 ready-to-run Actors for global company search, sanctions screening, regulatory compliance lookup, procurement monitoring, and country-specific public data workflows. MCP-compatible and built for AI agent use.
+
 [![opendata.best](https://img.shields.io/badge/opendata.best-865_APIs-blue?style=flat-square)](https://opendata.best)
 [![Apify Actors](https://img.shields.io/badge/Apify_Store-43_Actors-green?style=flat-square)](https://apify.com/lentic_clockss)
 [![Countries](https://img.shields.io/badge/Countries-42-orange?style=flat-square)](https://opendata.best/catalog)

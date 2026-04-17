@@ -1,0 +1,14 @@
+title: "Kane Liu"
+description: "AI replacement industry analysis"
+url: "https://kaneliu120.github.io"
+timezone: "Asia/Manila"
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: /:title/
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post

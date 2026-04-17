@@ -321,6 +321,10 @@ a:hover {
   max-width: 100%;
 }
 
+.zh-doc-body > h1:first-child {
+  display: none;
+}
+
 .article-body pre {
   overflow-x: auto;
   padding: 14px 16px;

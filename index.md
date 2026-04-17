@@ -8,6 +8,7 @@ title: AI Industry Replacement Analysis
   <h1>AI Industry Replacement Analysis</h1>
   <p class="lede">Published article bodies from Kane's completed LinkedIn industry series. This site only contains the long-form article text.</p>
   <div class="action-row">
+    <a class="button-link" href="{{ '/en/' | relative_url }}">English Industry Library</a>
     <a class="button-link" href="{{ '/zh/' | relative_url }}">中文行业库</a>
     <a class="button-link" href="{{ '/profile/' | relative_url }}">GitHub README</a>
     <a class="button-link secondary" href="https://github.com/kaneliu120">GitHub Profile</a>
@@ -37,7 +38,7 @@ title: AI Industry Replacement Analysis
   <div class="language-copy">
     <p class="eyebrow">Publishing Structure</p>
     <h2>Two-language publishing path.</h2>
-    <p>English long-form articles stay in the main archive. The Chinese-first industry library lives under <a href="{{ '/zh/' | relative_url }}">/zh/</a> and will expand first from the source analysis folder.</p>
+    <p>English long-form articles stay in the main archive. The Chinese-first industry library lives under <a href="{{ '/zh/' | relative_url }}">/zh/</a>. The English counterpart library lives under <a href="{{ '/en/' | relative_url }}">/en/</a> and is being rebuilt from the same source analysis folder.</p>
   </div>
 </section>
 
